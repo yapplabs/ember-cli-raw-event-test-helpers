@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-raw-event-test-helpers",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.1.0",
+  "description": "Supplies a set of ember-cli acceptance test helpers for triggering low level events.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,11 +11,11 @@
     "start": "ember server",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/yapplabs/ember-cli-raw-event-test-helpers",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Luke Melia, with portions from 201 Created and from Chris Thoburn",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.2.0",
