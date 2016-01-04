@@ -31,8 +31,11 @@ The generator makes changes to files assuming the structure of them has not chan
 
 ```
 "triggerTap",
-"rawTap",
+"rawMouseDown",
+"rawMouseUp",
+"rawMouseMove",
 "rawPan",
+"rawTap"
 ```
 
   * You may need to restart your ember server so that it picks up the new .jshintrc file.
